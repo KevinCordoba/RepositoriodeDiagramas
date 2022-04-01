@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-01T20:26:12.327Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="7Mker3JMaB28jyvX-kgM" version="17.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-01T20:27:48.423Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="vjjsEWqLRv8KzxMeKL-G" version="17.3.0" type="github">
   <diagram id="0wKsigWOqFvXMjwehrdi" name="Page-1">
     <mxGraphModel dx="1865" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,11 +43,11 @@
         <mxCell id="gnUUqcXBqfwLGUcRBIQq-13" value="Pedido" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="476.5" y="743" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gnUUqcXBqfwLGUcRBIQq-14" value="Envío" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gnUUqcXBqfwLGUcRBIQq-14" value="Envío" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="445" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gnUUqcXBqfwLGUcRBIQq-15" value="Repartidor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="1000" width="120" height="60" as="geometry" />
+        <mxCell id="gnUUqcXBqfwLGUcRBIQq-15" value="Repartidor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gnUUqcXBqfwLGUcRBIQq-16" value="Sistema" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="15" y="592.5" width="120" height="60" as="geometry" />
@@ -268,7 +268,7 @@
             <mxPoint x="180" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gnUUqcXBqfwLGUcRBIQq-68" value="Facturación" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gnUUqcXBqfwLGUcRBIQq-68" value="Facturación" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="440" y="885" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gnUUqcXBqfwLGUcRBIQq-69" value="Dirección" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
