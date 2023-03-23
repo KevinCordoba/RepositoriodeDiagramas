@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-23T22:06:06.058Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="_7BdnRev2wwPAahXcLNM" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-23T22:11:33.876Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="egLf8bQdwCaCcAxyXCUj" version="21.0.8" type="github">
   <diagram name="Página-1" id="uhb6uCqXIC7mATVn-pJn">
     <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -53,7 +53,7 @@
           <mxGeometry y="60" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="j4AZSku4BfRQOWyCY4g5-21" value="Restaurante" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="330" width="160" height="110" as="geometry" />
+          <mxGeometry x="220" y="330" width="160" height="130" as="geometry" />
         </mxCell>
         <mxCell id="j4AZSku4BfRQOWyCY4g5-22" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="j4AZSku4BfRQOWyCY4g5-21">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -61,8 +61,20 @@
         <mxCell id="j4AZSku4BfRQOWyCY4g5-23" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="j4AZSku4BfRQOWyCY4g5-21">
           <mxGeometry y="52" width="160" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="j4AZSku4BfRQOWyCY4g5-24" value="set()&lt;br&gt;get()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="j4AZSku4BfRQOWyCY4g5-21">
-          <mxGeometry y="60" width="160" height="50" as="geometry" />
+        <mxCell id="j4AZSku4BfRQOWyCY4g5-24" value="set()&lt;br&gt;get()&lt;br&gt;getMenu()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="j4AZSku4BfRQOWyCY4g5-21">
+          <mxGeometry y="60" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="j4AZSku4BfRQOWyCY4g5-25" value="" style="endArrow=block;endFill=0;endSize=12;html=1;rounded=0;entryX=0.642;entryY=1.023;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.613;exitY=0.013;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="j4AZSku4BfRQOWyCY4g5-21" target="j4AZSku4BfRQOWyCY4g5-4">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="310" y="330" as="sourcePoint" />
+            <mxPoint x="690" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j4AZSku4BfRQOWyCY4g5-26" value="" style="endArrow=block;endFill=0;endSize=12;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.333;entryY=1.048;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="j4AZSku4BfRQOWyCY4g5-17" target="j4AZSku4BfRQOWyCY4g5-4">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="540" y="370" as="sourcePoint" />
+            <mxPoint x="700" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
