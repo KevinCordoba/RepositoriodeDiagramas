@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-02T21:14:25.730Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="zdpraG5wM5R_fzxnb15z" version="21.1.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-02T21:15:09.415Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="wmSpGiV2TTT2zLqbUEWt" version="21.1.9" type="github" pages="3">
   <diagram name="Diagrama de Actividades" id="_G7LyayC_8GrqRtTaKz0">
     <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,6 +8,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="z_kg8sdoT_u1Ksv8K35P" name="Diagrama de clases">
+    <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="one3SvmUgaWTPXoEpoV9" name="Diagrama de Secuencia">
     <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
