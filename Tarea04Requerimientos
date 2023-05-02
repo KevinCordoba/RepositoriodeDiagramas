@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-02T21:49:49.712Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Px-tq6GcHidQ1eI4YVS6" version="21.1.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-05-02T21:53:05.085Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="e1gUqxj93YNatrAmm4LU" version="21.1.9" type="github" pages="3">
   <diagram name="Diagrama de Actividades" id="_G7LyayC_8GrqRtTaKz0">
     <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="z_kg8sdoT_u1Ksv8K35P" name="Diagrama de clases">
-    <mxGraphModel dx="1750" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
           <mxGeometry x="1430" y="550" width="360" height="680" as="geometry" />
         </mxCell>
         <mxCell id="iksSUErlnvRDtMo_oFrQ-4" value="Usuario" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="378" width="160" height="86" as="geometry" />
+          <mxGeometry x="220" y="378" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="iksSUErlnvRDtMo_oFrQ-5" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="iksSUErlnvRDtMo_oFrQ-4">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -58,7 +58,7 @@
           <mxGeometry y="60" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iksSUErlnvRDtMo_oFrQ-16" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Modelo&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="30" width="100" height="30" as="geometry" />
+          <mxGeometry x="30" y="30" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iksSUErlnvRDtMo_oFrQ-17" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Vista&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1090" y="570" width="100" height="30" as="geometry" />
@@ -79,7 +79,7 @@
           <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="iksSUErlnvRDtMo_oFrQ-23" value="Libro" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="484" width="160" height="86" as="geometry" />
+          <mxGeometry x="420" y="240" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="iksSUErlnvRDtMo_oFrQ-24" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="iksSUErlnvRDtMo_oFrQ-23">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -91,7 +91,7 @@
           <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="iksSUErlnvRDtMo_oFrQ-27" value="Biblioteca" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="100" width="160" height="86" as="geometry" />
+          <mxGeometry x="220" y="100" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="iksSUErlnvRDtMo_oFrQ-28" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="iksSUErlnvRDtMo_oFrQ-27">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -103,7 +103,7 @@
           <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="iksSUErlnvRDtMo_oFrQ-31" value="Bibliotecario" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="390" width="160" height="86" as="geometry" />
+          <mxGeometry x="10" y="240" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="iksSUErlnvRDtMo_oFrQ-32" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="iksSUErlnvRDtMo_oFrQ-31">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -115,7 +115,7 @@
           <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="iksSUErlnvRDtMo_oFrQ-35" value="Prestamo" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="390" width="160" height="86" as="geometry" />
+          <mxGeometry x="220" y="240" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="iksSUErlnvRDtMo_oFrQ-36" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="iksSUErlnvRDtMo_oFrQ-35">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -127,7 +127,7 @@
           <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="iksSUErlnvRDtMo_oFrQ-39" value="RegistroDePrestamos" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="495" width="160" height="86" as="geometry" />
+          <mxGeometry x="440" y="378" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="iksSUErlnvRDtMo_oFrQ-40" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="iksSUErlnvRDtMo_oFrQ-39">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
