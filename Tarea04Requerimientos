@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-04T00:29:53.517Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="gA5kLVvvq-PMhVNV2Enj" version="21.2.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-05-04T00:39:53.755Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="omecSSbhqITme2LHOGnU" version="21.2.7" type="github" pages="3">
   <diagram name="Diagrama de Actividades" id="_G7LyayC_8GrqRtTaKz0">
     <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -122,13 +122,13 @@
         <mxCell id="iksSUErlnvRDtMo_oFrQ-35" value="Prestamo" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="110" width="210" height="168" as="geometry" />
         </mxCell>
-        <mxCell id="iksSUErlnvRDtMo_oFrQ-36" value="+ idPrestamo: int&lt;br&gt;+ idTrabajador: int&lt;br&gt;+ carnetEst: int&lt;br&gt;+ fechaPrest: string&lt;br&gt;+ fechaDev: string&lt;br&gt;+ codLibro" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="iksSUErlnvRDtMo_oFrQ-35" vertex="1">
+        <mxCell id="iksSUErlnvRDtMo_oFrQ-36" value="+ idTrabajador: int&lt;br&gt;+ carnetEst: int&lt;br&gt;+ fechaPrest: string&lt;br&gt;+ fechaDev: string&lt;br&gt;+ codLibro" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="iksSUErlnvRDtMo_oFrQ-35" vertex="1">
           <mxGeometry y="26" width="210" height="94" as="geometry" />
         </mxCell>
         <mxCell id="iksSUErlnvRDtMo_oFrQ-37" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="iksSUErlnvRDtMo_oFrQ-35" vertex="1">
           <mxGeometry y="120" width="210" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="iksSUErlnvRDtMo_oFrQ-38" value="+ setPrest(carnet, id, codLibro): void&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+ getPrest(carnet, codLibro): boolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="iksSUErlnvRDtMo_oFrQ-35" vertex="1">
+        <mxCell id="iksSUErlnvRDtMo_oFrQ-38" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;+ setPrest(carnet, idB, codLibro): void&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+ getPrest(carnet, codLibro): boolean&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="iksSUErlnvRDtMo_oFrQ-35" vertex="1">
           <mxGeometry y="128" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iksSUErlnvRDtMo_oFrQ-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.423;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="iksSUErlnvRDtMo_oFrQ-39" target="iksSUErlnvRDtMo_oFrQ-38" edge="1">
