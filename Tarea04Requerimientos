@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-04T04:10:32.540Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="V7qMBbW4R_pu4PF5nfHw" version="21.2.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-05-04T05:28:31.914Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="3Jp_FYsHXa6OewN-QYtB" version="21.2.7" type="github" pages="3">
   <diagram name="Diagrama de Actividades" id="_G7LyayC_8GrqRtTaKz0">
     <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="z_kg8sdoT_u1Ksv8K35P" name="Diagrama de clases">
-    <mxGraphModel dx="281" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -250,6 +250,18 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7zjA6pz49usR8wtPvnR6-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="80" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7zjA6pz49usR8wtPvnR6-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="60" y="180" width="10" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="7zjA6pz49usR8wtPvnR6-3" value="InterfazUI" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="190" y="110" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7zjA6pz49usR8wtPvnR6-4" value="Controlador" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="330" y="110" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
