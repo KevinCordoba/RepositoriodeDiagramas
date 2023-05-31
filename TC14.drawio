@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-31T02:39:11.602Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="7eopDPhiVJzLMbxWDQ5J" version="21.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-31T02:40:03.729Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="JWaVhZ1J6muKTXT5pyqV" version="21.2.7" type="github" pages="2">
   <diagram name="Diagrama de casos de uso" id="pVoKZF2TP_WYzGe5Z6-h">
     <mxGraphModel dx="1050" dy="1710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -209,7 +209,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3XaLm_sV4H2qLo1hLNnr-1" value="Automóvil" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="1680" width="160" height="178" as="geometry" />
+          <mxGeometry x="880" y="1680" width="160" height="178" as="geometry" />
         </mxCell>
         <mxCell id="3XaLm_sV4H2qLo1hLNnr-2" value="+ modelo: string&lt;br&gt;+ placa: int&lt;br&gt;+ anio: int&lt;br&gt;+ kilometraje: int&lt;br&gt;+ estado: string&lt;br&gt;+ marca: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="3XaLm_sV4H2qLo1hLNnr-1">
           <mxGeometry y="26" width="160" height="104" as="geometry" />
@@ -221,7 +221,7 @@
           <mxGeometry y="138" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3XaLm_sV4H2qLo1hLNnr-5" value="ReporteMensual" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1360" y="1870" width="160" height="158" as="geometry" />
+          <mxGeometry x="1081" y="1780" width="160" height="158" as="geometry" />
         </mxCell>
         <mxCell id="3XaLm_sV4H2qLo1hLNnr-6" value="+ idVenta: int&lt;br&gt;+ idVendedor: int&lt;br&gt;+ idVehiculo: int&lt;br&gt;+ fecha: date&lt;br&gt;+ precioVenta: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="3XaLm_sV4H2qLo1hLNnr-5">
           <mxGeometry y="26" width="160" height="84" as="geometry" />
@@ -290,6 +290,17 @@
             <Array as="points">
               <mxPoint x="1520" y="1688" />
               <mxPoint x="1520" y="1565" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aHwtyaHoDboiA1awYpVz-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.109;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3XaLm_sV4H2qLo1hLNnr-6" target="T0gLjBOPI1TZ8nuuy30L-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aHwtyaHoDboiA1awYpVz-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.014;entryY=0.804;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3XaLm_sV4H2qLo1hLNnr-6" target="niUh2xJq_E6xbwGz0B3A-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="840" y="1880" />
+              <mxPoint x="840" y="1580" />
             </Array>
           </mxGeometry>
         </mxCell>
