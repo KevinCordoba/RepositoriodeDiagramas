@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-19T05:13:12.130Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="lwjXOiOds644FJ2V5_-j" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-19T05:16:15.915Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="6juhkg2-2DNPkYSgpUld" version="21.6.6" type="github">
   <diagram name="Página-1" id="YXY20s3lIDG5nPg8wBVr">
     <mxGraphModel dx="1362" dy="1825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -162,11 +162,23 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wL8QuklXJ_DdkI1SQFi7-56" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="140" width="60" height="30" as="geometry" />
+        <mxCell id="wL8QuklXJ_DdkI1SQFi7-56" value="Realiza" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="210" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wL8QuklXJ_DdkI1SQFi7-57" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="140" width="60" height="30" as="geometry" />
+        <mxCell id="wL8QuklXJ_DdkI1SQFi7-57" value="Llena" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wL8QuklXJ_DdkI1SQFi7-58" value="Tiene" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="-80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wL8QuklXJ_DdkI1SQFi7-59" value="Tiene" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wL8QuklXJ_DdkI1SQFi7-60" value="Tiene" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="18" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wL8QuklXJ_DdkI1SQFi7-61" value="Solicita" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="479" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
