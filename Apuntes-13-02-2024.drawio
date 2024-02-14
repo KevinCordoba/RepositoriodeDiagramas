@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-14T00:06:46.285Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="yl3-d3FO1Xcxo3d5y-VN" version="23.1.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-14T00:16:10.560Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="3WbYiXl12ZVPuRpaUYKU" version="23.1.4" type="github" pages="4">
   <diagram name="Página-1" id="c9o6cOy38qLz8AR-KGVt">
     <mxGraphModel dx="1259" dy="1690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -120,6 +120,46 @@
         </mxCell>
         <mxCell id="3SeUXvV9d9S3T4bUr7FC-8" value="Thread 1&lt;br&gt;Nereo&lt;br&gt;# random port" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ykzPLf9uJruYwhC2LPhr" name="Página-4">
+    <mxGraphModel dx="432" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Clku4nv4ob80YbKT__1u-1" value="Memroy&lt;br&gt;CPU&lt;br&gt;Disk&lt;br&gt;MySQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="101" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Clku4nv4ob80YbKT__1u-2" value="100GB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="100" y="10" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Clku4nv4ob80YbKT__1u-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Clku4nv4ob80YbKT__1u-3" target="Clku4nv4ob80YbKT__1u-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Clku4nv4ob80YbKT__1u-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Clku4nv4ob80YbKT__1u-3" target="Clku4nv4ob80YbKT__1u-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Clku4nv4ob80YbKT__1u-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Clku4nv4ob80YbKT__1u-3" target="Clku4nv4ob80YbKT__1u-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Clku4nv4ob80YbKT__1u-3" value="Raw&lt;br&gt;200GB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="240" y="390" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Clku4nv4ob80YbKT__1u-5" value="Memroy&lt;br&gt;CPU&lt;br&gt;Disk&lt;br&gt;MySQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="101" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Clku4nv4ob80YbKT__1u-6" value="100GB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="240" y="10" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Clku4nv4ob80YbKT__1u-7" value="Memroy&lt;br&gt;CPU&lt;br&gt;Disk&lt;br&gt;MySQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="101" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Clku4nv4ob80YbKT__1u-8" value="100GB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="380" y="10" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
