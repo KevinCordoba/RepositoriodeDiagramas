@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T06:55:30.486Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="dTtx21LZ2XPLEcXNOsAW" version="23.1.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-02-20T06:57:19.785Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="CFjZXF8zCh-nI9Lm6LTS" version="23.1.5" type="github" pages="4">
   <diagram name="Página-1" id="c9o6cOy38qLz8AR-KGVt">
     <mxGraphModel dx="1945" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -122,14 +122,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ykzPLf9uJruYwhC2LPhr" name="Página-4">
-    <mxGraphModel dx="515" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1167" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Clku4nv4ob80YbKT__1u-1" value="Memroy&lt;br&gt;CPU&lt;br&gt;Disk&lt;br&gt;MySQL" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Clku4nv4ob80YbKT__1u-1" value="Memroy&lt;br&gt;CPU&lt;br&gt;Disk&lt;br&gt;MySQL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="70" y="101" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Clku4nv4ob80YbKT__1u-2" value="100GB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+        <mxCell id="Clku4nv4ob80YbKT__1u-2" value="100GB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="100" y="10" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Clku4nv4ob80YbKT__1u-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Clku4nv4ob80YbKT__1u-3" target="Clku4nv4ob80YbKT__1u-1" edge="1">
@@ -143,19 +143,19 @@
         <mxCell id="Clku4nv4ob80YbKT__1u-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Clku4nv4ob80YbKT__1u-3" target="Clku4nv4ob80YbKT__1u-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Clku4nv4ob80YbKT__1u-3" value="Raw&lt;br&gt;200GB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+        <mxCell id="Clku4nv4ob80YbKT__1u-3" value="Raw&lt;br&gt;200GB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="240" y="390" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Clku4nv4ob80YbKT__1u-5" value="Memroy&lt;br&gt;CPU&lt;br&gt;Disk&lt;br&gt;MySQL" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Clku4nv4ob80YbKT__1u-5" value="Memroy&lt;br&gt;CPU&lt;br&gt;Disk&lt;br&gt;MySQL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="210" y="101" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Clku4nv4ob80YbKT__1u-6" value="100GB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+        <mxCell id="Clku4nv4ob80YbKT__1u-6" value="100GB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="240" y="10" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Clku4nv4ob80YbKT__1u-7" value="Memroy&lt;br&gt;CPU&lt;br&gt;Disk&lt;br&gt;MySQL" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Clku4nv4ob80YbKT__1u-7" value="Memroy&lt;br&gt;CPU&lt;br&gt;Disk&lt;br&gt;MySQL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="350" y="101" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Clku4nv4ob80YbKT__1u-8" value="100GB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+        <mxCell id="Clku4nv4ob80YbKT__1u-8" value="100GB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="380" y="10" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
