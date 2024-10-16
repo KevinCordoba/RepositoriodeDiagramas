@@ -1,9 +1,30 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Página-1" id="CDWOGpq_30YwzKKnGCLV">
-    <mxGraphModel>
+    <mxGraphModel dx="727" dy="872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="H0xQzYvjFoGzXAMZh4Xb-2" value="scr_ip 32 bits" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="140" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H0xQzYvjFoGzXAMZh4Xb-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="H0xQzYvjFoGzXAMZh4Xb-3" target="H0xQzYvjFoGzXAMZh4Xb-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H0xQzYvjFoGzXAMZh4Xb-3" value="scr_port 16 bits" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="260" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H0xQzYvjFoGzXAMZh4Xb-4" value="dst_ip 32 bits" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="380" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H0xQzYvjFoGzXAMZh4Xb-6" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;65 535&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="275" y="50" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H0xQzYvjFoGzXAMZh4Xb-7" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;NAT&lt;br&gt;65 535&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="145" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="H0xQzYvjFoGzXAMZh4Xb-8" value="dst_port" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="500" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
