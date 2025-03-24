@@ -1,9 +1,24 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="Página-1" id="GEhozxayWhLsHTrUDDnB">
-    <mxGraphModel>
+    <mxGraphModel dx="834" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="N-b8tGzhNI-rWHdhVOdj-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="360" width="420" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="N-b8tGzhNI-rWHdhVOdj-1" value="Web Client" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="370" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="N-b8tGzhNI-rWHdhVOdj-2" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;React&lt;/font&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;fillColor=light-dark(#819fcb, #1d293b);strokeColor=light-dark(#dae8fc, #5c79a3);" vertex="1" parent="1">
+          <mxGeometry x="260" y="420" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="N-b8tGzhNI-rWHdhVOdj-3" value="Web APP" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="370" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="N-b8tGzhNI-rWHdhVOdj-4" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;UI&lt;/font&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;fillColor=light-dark(#819fcb, #1d293b);strokeColor=light-dark(#dae8fc, #5c79a3);" vertex="1" parent="1">
+          <mxGeometry x="440" y="430" width="70" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
